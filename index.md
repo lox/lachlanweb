@@ -8,7 +8,7 @@ layout: default
 Lachlan Donald
 ==============
 
-Computer geek, coffee <del>snob</del> afficionado and cat lover. I'm CTO of [99designs](http://99designs.com), currently based in San Francisco (we started in Melbourne, Australia).
+Dad, Husband, Computer geek, coffee and whisky <del>snob</del> aficionado and cat lover. Formerly founding CTO of [99designs](http://99designs.com), currently based in Melbourne, Australia.
 
-When I'm not exploring the world with my wife, Sarah, I'm probably either eating, drinking or building something. I'm passionate about the technology behind the web, how it affects people and how it's changing the world. 
+When I'm not exploring the world with my wife, Sarah, and my daughter, I'm probably either eating, drinking or building something.
 
